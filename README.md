@@ -1,7 +1,5 @@
-# Playhub Gaming Mode
-
-This project is now part of Playhub and will not be updated.
-Check the new repo here https://github.com/LoZazaMastro/Playhub
+# This project is now part of Playhub and will not be updated.
+# Check the new repo here https://github.com/LoZazaMastro/Playhub
 
 Playhub Gaming Mode is a console mode for a Windows living-room
 PC. It keeps the current Windows user account and switches between two shells:
